@@ -20,9 +20,9 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
 
-author: your_full_name                  # change to your full name
+author: Srivatsan Ramanujam                  # change to your full name
 
-avatar: /assets/img/sample/vatsan.jpg   # support internet resources
+avatar: /assets/img/sample/vatsan.png   # support internet resources
 
 github:
   username: vatsan             # change to your github username
@@ -78,7 +78,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: light
 
 # boolean type, global switch for ToC in posts.
 toc: true
