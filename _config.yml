@@ -13,12 +13,10 @@ title: Srivatsan Ramanujam                          # the main title
 tagline: Director of Software Engineering and ML, Salesforce Einstein.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  My personal and professional website
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://vatsan.github.io'
 
 author: Srivatsan Ramanujam                  # change to your full name
 
@@ -37,9 +35,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/being_bayesian      # change to your twitter homepage
     - https://github.com/vatsan       # change to your github homepage
+    - https://www.linkedin.com/in/srivatsan-ramanujam-88891b7/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
