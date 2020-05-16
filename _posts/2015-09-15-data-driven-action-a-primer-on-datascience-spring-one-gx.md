@@ -1,4 +1,4 @@
-Along with my colleagues [Sarah Aerni] and [Jarrod Vawdrey] I presented how we leverage open source tools from the Spring ecosystem to solve data science problems in NLP at scale.
+Along with my colleagues [Sarah Aerni](https://www.linkedin.com/in/sarahaerni) and [Jarrod Vawdrey](https://www.linkedin.com/in/jvawdrey) I presented how we leverage open source tools from the Spring ecosystem to solve data science problems in NLP at scale.
 
 You can watch a recording of this talk below.
 
