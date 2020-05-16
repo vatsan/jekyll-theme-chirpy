@@ -2,4 +2,4 @@ My colleague [Gautam]() and I describe how we can leverage native C/C++ applicat
 
 You can read the two part blog below:
 1. [How to Scale Native (C/C++) Applications on Pivotal's MPP Platform: Edge Detection Example, Part 1](https://tanzu.vmware.com/content/blog/how-to-scale-native-c-c-applications-on-pivotals-mpp-platform-edge-detection-example-part-1)
-2. [How to Scale Native (C/C++) Applications on Pivotal's MPP Platform: Edge Detection Example, Part 2](https://tanzu.vmware.com/content/blog/how-to-scale-native-c-c-applications-on-pivotals-mpp-platform-edge-detection-example-part-2
+2. [How to Scale Native (C/C++) Applications on Pivotal's MPP Platform: Edge Detection Example, Part 2](https://tanzu.vmware.com/content/blog/how-to-scale-native-c-c-applications-on-pivotal-s-mpp-platform-edge-detection-example-part-2)
