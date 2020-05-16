@@ -4,4 +4,4 @@ As data scientists and ML engineers, we have the privilege to harness these tool
 
 You can watch a recording of this session below.
 
-[![All Things Python @ Pivotal](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/all_things_python_2015.png](https://www.youtube.com/watch?v=dwaUl_V3Nes)
+[![All Things Python @ Pivotal](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/all_things_python_2015.png)](https://www.youtube.com/watch?v=dwaUl_V3Nes)
