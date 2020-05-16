@@ -4,4 +4,4 @@ We got a chance to allow our customers to peek under the hood of the machine lea
 
 You can watch a recording of our session below.
 
-[Einstein for Sales: Under the Hood (Dreamforce 2019 Breakout Session)](https://www.salesforce.com/video/7800039/)
+[![Einstein for Sales: Under the Hood (Dreamforce 2019 Breakout Session)](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/einstein_for_sales_under_the_hood_df_2019.png)](https://www.salesforce.com/video/7800039/)
