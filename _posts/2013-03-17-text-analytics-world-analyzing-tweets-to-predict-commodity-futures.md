@@ -2,6 +2,7 @@
 title: Predicting Commodity Futures with NLP on Tweets (Text Analytics World San Francisco 2013)
 author: Srivatsan Ramanujam
 date: 2013-03-17
+categories: [Talks]
 tags: [sentimentanalysis, twitter, commodity futures, Greenplum MPP, Apache MADlib]
 ---
 
