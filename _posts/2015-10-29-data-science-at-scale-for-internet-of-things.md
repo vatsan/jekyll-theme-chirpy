@@ -2,7 +2,7 @@
 title: Data Science at Scale for IoT on Pivotal Platform
 author: Srivatsan Ramanujam
 date: 2015-10-29
-categories: [Talks]
+categories: [Talks, Meetup]
 tags: [IoT, signalprocessing, NLP, cloudfoundry, Greenplum MPP]
 ---
 
