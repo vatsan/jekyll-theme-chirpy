@@ -2,6 +2,7 @@
 title: Data Science Driven Software Product Innovation
 author: Srivatsan Ramanujam
 date: 2016-08-16
+categories: [Webinar]
 tags: [Greenplum MPP, sessionization, datascience, Apache MADlib]
 ---
 
