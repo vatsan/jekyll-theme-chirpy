@@ -2,6 +2,7 @@
 title: From Sea to Trees, Pivotal Data Science Looks at Climate Change in Acadia National Park
 author: Srivatsan Ramanujam
 date: 2014-09-21
+categories: [Blogs]
 tags: [climatechange, datalake, citizenscientist, Acadia NP]
 ---
 
