@@ -1,4 +1,9 @@
-## Salesforce Engineering Blog: ML Driven Sales and Marketing for Everyone
+---
+title: Salesforce Engineering Blog - ML Driven Sales and Marketing for Everyone
+author: Srivatsan Ramanujam
+date: 2020-02-13
+tags: [pardoteinstein, behaviorscoring, interpretability]
+---
 
 My team and I wrote a two part blog on the product we have been working on for the past couple of releases ([Behavior Scoring for Pardot Einstein](https://help.salesforce.com/articleView?id=pardot_einstein_behavior_scoring.htm&type=5)) and published it in the Salesforce Engineering blog.
 
