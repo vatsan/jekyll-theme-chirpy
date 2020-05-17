@@ -1,5 +1,5 @@
 ---
-title: Archives
+title: Timeline
 
 # The Archives of posts.
 # v2.0
