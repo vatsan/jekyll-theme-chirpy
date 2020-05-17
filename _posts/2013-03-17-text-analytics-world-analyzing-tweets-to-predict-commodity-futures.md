@@ -6,4 +6,4 @@ The motivation behind this project we delivered for one of our customers were tw
 
 You can view my slides from this talk below.
 
-[![Predicting Commodity Futures with Twitter](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/data_science_at_scale_for_IoT_2015.png)](https://www.slideshare.net/SrivatsanRamanujam/sramanujam-taw-2014)
+[![Predicting Commodity Futures with Twitter](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/twitter_commodity_futures_taw_2013.png)](https://www.slideshare.net/SrivatsanRamanujam/sramanujam-taw-2014)
