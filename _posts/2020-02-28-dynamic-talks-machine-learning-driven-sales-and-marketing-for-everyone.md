@@ -1,6 +1,8 @@
 ---
 title: Dynamic Talks: ML Driven Sales and Marketing for the Everyone
-tags: [#pardoteinstein #behaviorscoring #interpretability]     # TAG names should always be lowercase
+author: Srivatsan Ramanujam
+date: 2020-02-28
+tags: [pardoteinstein, behaviorscoring, interpretability]     # TAG names should always be lowercase
 ---
 
 The good folks at [Grid Dynamics](https://www.griddynamics.com/) have been scheduling meetups filled with interesting talks in a range of topics spanning data science, machine learning and AI. I had the opportunity to attend one of their talks in Palo Alto ([Dynamic Talks Silicon Valley: Voice Platforms, Conversational Commerce, and NLU](https://www.meetup.com/Dynamics-Talks-Silicon-Valley/events/267624645/) and was invited to speak at a subsequent event in San Francisco ([Dynamic Talks SF: Advanced Machine Learning for Customer Intelligence](https://www.griddynamics.com/events/dynamic-talks/dynamic-talks-san-francisco-q1-2020)).
