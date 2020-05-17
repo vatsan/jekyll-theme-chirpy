@@ -2,4 +2,4 @@ I presented [PyMADlib](https://github.com/pivotalsoftware/pymadlib) - Python wra
 
 You can checkout the slides from my talk below.
 
-[![PyMADlib: Python Wrapper for Apache MADlib](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/data_science_at_scale_for_IoT_2015.png)](https://www.slideshare.net/SrivatsanRamanujam/py-ma-dlibdatadaytexas)
+[![PyMADlib: Python Wrapper for Apache MADlib](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/pymadlib_ddtx_2013.png)](https://www.slideshare.net/SrivatsanRamanujam/py-ma-dlibdatadaytexas)
