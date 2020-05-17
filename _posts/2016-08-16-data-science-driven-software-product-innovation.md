@@ -4,4 +4,4 @@ We used Greenplum MPP database, Apache MADlib and an array of Python libraries i
 
 You can watch a recording of this session below.
 
-[![Data Science Driven Software Product Innovation](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/data_science_at_scale_for_IoT_2015.png)](https://www.youtube.com/watch?v=1HoHksV69X0)
+[![Data Science Driven Software Product Innovation](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/ds_software_product_innovation_2016.png)](https://www.youtube.com/watch?v=1HoHksV69X0)
