@@ -2,7 +2,7 @@
 title: All Things Python @ Pivotal
 author: Srivatsan Ramanujam
 date: 2015-10-15
-categories: [Talks]
+categories: [Talks, Meetup]
 tags: [Greenplum MPP, PL-Python, machinelearning, cloud foundry]
 ---
 
