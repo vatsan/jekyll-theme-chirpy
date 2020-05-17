@@ -2,6 +2,7 @@
 title: Building machine learning models at scale for data parallel problems on Pivotal's MPP databases
 author: Srivatsan Ramanujam
 date: 2016-03-20
+categories: [Blogs]
 tags: [Greenplum MPP, PL/Python, sklearn, machinelearning]
 ---
 
