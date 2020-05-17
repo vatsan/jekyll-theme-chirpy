@@ -2,7 +2,7 @@
 title: Big Data in Education - Analyzing Student Clusters to Influence Success and Retention
 author: Srivatsan Ramanujam
 date: 2014-12-08
-categories: [Blogs]
+categories: [Blogs, Overview]
 tags: [Greenplum MPP, studentsuccess, bigdata, clustering]
 ---
 
