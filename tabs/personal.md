@@ -12,4 +12,4 @@ I was born and raised in Chennai, in southern India. After finishing my undergra
 
 I love hiking, backpacking, running and mountaineering. Living in the Bay Area allows me easy access to many beautiful trails nearby and when those aren't sufficient, I typically head out to Yosemite several times a year. You can find some of my hiking and mountaineering videos on my [YouTube Channel](https://www.youtube.com/watch?v=P317FkePp7k&list=UUKCzatgStqhpXAu1lbl2QPw).
 
-When I am not outdoors, you might find me staying on top of the news cycle reading my [Twitter feed](https://twitter.com/being_bayesian) or admiring my wife [Anastasia's](https://www.linkedin.com/in/anastasiafilina) [art and food](https://www.instagram.com/anastasiyafilina/?hl=en).
+When I am not outdoors, you might find me staying on top of the news cycle reading my [Twitter feed](https://twitter.com/being_bayesian) or admiring my wife [Anastasia's](https://www.linkedin.com/in/anastasiafilina) art and food ([Instagram](https://www.instagram.com/anastasiyafilina/?hl=en)).
