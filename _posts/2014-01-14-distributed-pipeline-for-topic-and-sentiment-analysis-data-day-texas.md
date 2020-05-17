@@ -2,7 +2,7 @@
 title: Distributed Pipeline for Topic and Sentiment Analysis of Tweets
 author: Srivatsan Ramanujam
 date: 2014-01-14
-categories: [Talks]
+categories: [Talks, Conference]
 tags: [sentiment analysis, topic modeling, Data Day Texas (ddtx2014)]
 ---
 
