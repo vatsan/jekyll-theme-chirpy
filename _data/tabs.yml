@@ -19,7 +19,7 @@
   path: tabs
   url: about
 -
-  personal: "Personal"
+  name: "Personal"
   icon: "fas fa-info"
   path: tabs
   url: personal
