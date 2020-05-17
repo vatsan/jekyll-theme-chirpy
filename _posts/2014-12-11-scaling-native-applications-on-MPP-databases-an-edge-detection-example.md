@@ -3,7 +3,7 @@ title: How to Scale Native (C/C++) Applications on Pivotal's MPP Platform - An E
 author: Srivatsan Ramanujam
 date: 2014-12-11
 categories: [Blogs]
-tags: [edgedetection, PL/C, Python, Greenplum MPP]
+tags: [edgedetection, PL-C, Python, Greenplum MPP]
 ---
 
 My colleague [Gautam Muralidhar](https://www.linkedin.com/in/gautamsmuralidhar) and I describe how we can leverage native C/C++ applications on Massively Parallel Processing (MPP) databases like Greenplum using procedural languages such as PL/C or PL/Python on Greenplum. We illustrate an example using the Canny's Edge Detection algorithm commonly used in image processing.
