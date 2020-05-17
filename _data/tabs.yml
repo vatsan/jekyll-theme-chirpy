@@ -14,6 +14,16 @@
   url: archives
   icon: "fas fa-archive"
 -
+  name: Categories
+  icon: "fas fa-stream"
+  path: tabs
+  url: categories
+-
+  name: "Tags"
+  icon: "fas fa-tags"
+  path: tabs
+  url: tags
+-
   name: "About"
   icon: "fas fa-info"
   path: tabs
