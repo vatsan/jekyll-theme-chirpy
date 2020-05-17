@@ -2,7 +2,7 @@
 title: Python Powered Data Science at Pivotal - PyData NYC 2013
 author: Srivatsan Ramanujam
 date: 2013-11-10
-categories: [Talks]
+categories: [Talks, Conference]
 tags: [PyData NYC 2013, Python, Cloud Foundry, Greenplum MPP, Apache MADlib]
 ---
 
