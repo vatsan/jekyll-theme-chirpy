@@ -6,4 +6,4 @@ Here's a demo of this pipeline in action.
 
 You can view my slides below.
 
-[![Distributed Pipeline for Topic and Sentiment Analysis](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/data_science_at_scale_for_IoT_2015.png)](https://www.slideshare.net/SrivatsanRamanujam/a-pipeline-for-distributed-topic-and-sentiment-analysis-of-tweets-on-pivotal-greenplum-database)
+[![Distributed Pipeline for Topic and Sentiment Analysis](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/topic_and_sentiment_pipeline_ddtx_2014.png)](https://www.slideshare.net/SrivatsanRamanujam/a-pipeline-for-distributed-topic-and-sentiment-analysis-of-tweets-on-pivotal-greenplum-database)
