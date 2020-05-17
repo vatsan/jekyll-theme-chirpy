@@ -1,7 +1,7 @@
 ---
 title: How to Scale Native (C/C++) Applications on Pivotal's MPP Platform - An Edge Detection Example
 author: Srivatsan Ramanujam
-date: 2020-02-28
+date: 2014-12-11
 tags: [edgedetection, PL/C, Python, Greenplum MPP]
 ---
 
