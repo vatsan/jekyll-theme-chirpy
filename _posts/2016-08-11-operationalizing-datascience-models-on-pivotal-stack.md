@@ -2,6 +2,7 @@
 title: Operationalizing Data science Models on Pivotal Stack
 author: Srivatsan Ramanujam
 date: 2016-08-11
+categories: [Blogs]
 tags: [Apache MADlib, Apache Geode, Greenplum, Cloud Foundry]
 ---
 
