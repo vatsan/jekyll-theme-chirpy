@@ -3,7 +3,7 @@ title: All Things Python @ Pivotal
 author: Srivatsan Ramanujam
 date: 2015-10-15
 categories: [Talks]
-tags: [Greenplum MPP, PL/Python, machinelearning, cloud foundry]
+tags: [Greenplum MPP, PL-Python, machinelearning, cloud foundry]
 ---
 
 I presented all the glorious thing our team of data scientists and machine learning engineers at Pivotal build with Python. From our massively parallel processing database - [Greenplum MPP](https://greenplum.org/), our in-database machine learning library - [Apache MADlib](https://madlib.apache.org/), to the open source multi-cloud application platfrom - [Cloud Foundry](https://www.cloudfoundry.org/), Python is at the heart of many technologies built at Pivotal.
