@@ -2,6 +2,7 @@
 title: Salesforce Engineering Blog - ML Driven Sales and Marketing for Everyone
 author: Srivatsan Ramanujam
 date: 2020-02-13
+categories: [Talks]
 tags: [pardoteinstein, behaviorscoring, interpretability]
 ---
 
