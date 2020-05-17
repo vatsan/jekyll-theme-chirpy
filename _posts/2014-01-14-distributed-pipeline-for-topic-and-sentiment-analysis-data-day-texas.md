@@ -1,3 +1,10 @@
+---
+title: Distributed Pipeline for Topic and Sentiment Analysis of Tweets
+author: Srivatsan Ramanujam
+date: 2014-01-14
+tags: [sentiment analysis, topic modeling, Data Day Texas (ddtx2014)]
+---
+
 I returned to [Data Day Texas 2014](https://datadaytexas.com/) this year to present a distributed topic and sentiment analysis pipeline based on open source in-database machine learning tools.
 
 Here's a demo of this pipeline in action.
