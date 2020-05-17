@@ -1,3 +1,10 @@
+---
+title: Predicting Commodity Futures with NLP on Tweets (Text Analytics World San Francisco 2013)
+author: Srivatsan Ramanujam
+date: 2013-03-17
+tags: [sentimentanalysis, twitter, commodity futures, Greenplum MPP, Apache MADlib]
+---
+
 Have you ever wondered if there are signals in tweets that could be used to predict commodity futures? Farmers today use high tech equipment with rich sensors to monitor the state of their farms. Some of them even tweet about their crop conditions. Prominent news sources also share information about crop conditions and expected crop yields for the current agricultural year. I presented the proof-of-concept NLP pipeline for predicting commodity futures using tweets that we built for one of our customers in the agri-business space, at [Text Analytics World 2013](http://www.textanalyticsworld.com/pdf/sf14/1515_Ramanujam.pdf) in San Francisco.  
 
 The motivation behind this project we delivered for one of our customers were two fold:
