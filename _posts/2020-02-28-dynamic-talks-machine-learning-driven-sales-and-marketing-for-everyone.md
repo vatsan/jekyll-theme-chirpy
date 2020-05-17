@@ -1,5 +1,5 @@
 ---
-title: Dynamic Talks - ML Driven Sales and Marketing for the Everyone
+title: Dynamic Talks - ML Driven Sales and Marketing for Everyone
 author: Srivatsan Ramanujam
 date: 2020-02-28
 categories: [Talks]
