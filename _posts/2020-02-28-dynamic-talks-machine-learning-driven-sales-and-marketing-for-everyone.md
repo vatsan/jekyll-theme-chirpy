@@ -2,7 +2,7 @@
 title: Dynamic Talks - ML Driven Sales and Marketing for the Everyone
 author: Srivatsan Ramanujam
 date: 2020-02-28
-categories: [Blogging]
+categories: [Talks]
 tags: [pardoteinstein, behaviorscoring, interpretability]
 ---
 
