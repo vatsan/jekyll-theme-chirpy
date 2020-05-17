@@ -1,3 +1,10 @@
+---
+title: Python Powered Data Science at Pivotal - PyData NYC 2013
+author: Srivatsan Ramanujam
+date: 2013-11-10
+tags: [PyData NYC 2013, Python, Cloud Foundry, Greenplum MPP, Apache MADlib]
+---
+
 My colleague [Ian Huston](https://ie.linkedin.com/in/ihuston) and I presented how we leverage Python for data science projects in Pivotal at [PyData New York - 2013](https://pydata.org/nyc2013/abstracts/#106).
 
 Here is a summary of our talk, you can view the slides below.
