@@ -1,4 +1,4 @@
-My colleagues [Regunathan]() and I presented our work on using data science to sessionize and analyze customer logins of our large financial sector clients and uncover both anomalies as well as patterns of user segments who could be recommended a different license (cross-sell).
+My colleague [Regunathan](https://www.linkedin.com/in/regu-radhakrishnan-4b76bb1) and I presented our work on using data science to sessionize and analyze customer logins of our large financial sector clients and uncover both anomalies as well as patterns of user segments who could be recommended a different license (cross-sell).
 
 We used Greenplum MPP database, Apache MADlib and an array of Python libraries in PL/Python and PDLTools to solve this problem.
 
