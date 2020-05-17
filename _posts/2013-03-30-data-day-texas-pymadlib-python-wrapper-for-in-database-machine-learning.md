@@ -2,6 +2,7 @@
 title: PyMADlib - A Python Wrapper for Apache MADlib (Data Day Texas 2013)
 author: Srivatsan Ramanujam
 date: 2013-03-30
+categories: [Talks]
 tags: [Data Day Texas (ddtx13), Apache MADlib, PyMADlib]
 ---
 
