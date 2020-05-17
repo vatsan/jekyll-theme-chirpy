@@ -1,3 +1,10 @@
+---
+title: From Sea to Trees, Pivotal Data Science Looks at Climate Change in Acadia National Park
+author: Srivatsan Ramanujam
+date: 2014-09-21
+tags: [climatechange, datalake, citizenscientist, Acadia NP]
+---
+
 In November 2014, I spent a week with some of my colleagues from Pivotal/VMWare/EMC at the beautiful Acadia National Park to understand the effect of climate change on the flora and fauna in the park. We worked alongside scientists and naturalists from the Schoodic Institute to understand how Big Data could help improve our understanding of climate change in the park. I documented my week in a series of four different blogs that I am linking below.
 
 The four days spent in the cold winter at the beautiful park in Maine were a grim reminder of the harmful effects of climate change on the plant and animal life in America's prized possessions - our National Parks.
