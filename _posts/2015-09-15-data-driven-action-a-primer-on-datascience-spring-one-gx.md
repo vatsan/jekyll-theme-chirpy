@@ -2,7 +2,7 @@
 title: Data Driven Action - A Primer on Data Science (Spring One GX 2015)
 author: Srivatsan Ramanujam
 date: 2015-09-15
-categories: [Talks]
+categories: [Talks, Conference]
 tags: [springone, spring, NLP, hadoop, Greenplum MPP]
 ---
 
