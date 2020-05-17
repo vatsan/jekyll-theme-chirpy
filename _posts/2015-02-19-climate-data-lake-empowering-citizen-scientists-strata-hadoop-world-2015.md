@@ -2,6 +2,7 @@
 title: Big Data vs Climate Change - Strata Hadoop World 2015
 author: Srivatsan Ramanujam
 date: 2015-02-19
+categories: [Talks]
 tags: [datalake, climatechange, bigdata]
 ---
 
