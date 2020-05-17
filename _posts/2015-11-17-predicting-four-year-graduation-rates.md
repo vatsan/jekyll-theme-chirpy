@@ -2,6 +2,7 @@
 title: How Data Science is Preventing College Dropouts and Advancing Student Success
 author: Srivatsan Ramanujam
 date: 2015-11-17
+categories: [Webinars]
 tags: [studentsuccess, machinelearning, gridsearch]
 ---
 
