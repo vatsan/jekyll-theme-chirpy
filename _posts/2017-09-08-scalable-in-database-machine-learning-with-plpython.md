@@ -3,7 +3,7 @@ title: Scalable in-database machine learning with PL/Python (Postgres Open Silic
 author: Srivatsan Ramanujam
 date: 2017-09-08
 categories: [Talks]
-tags: [Apache MADlib, PL/Python, in-database ML, Greenplum MPP]
+tags: [Apache MADlib, PL-Python, in-database ML, Greenplum MPP]
 ---
 
 I presented a talk on scalable in-database machine learning using PL/Python at [Postgres Open Silicon Valley](https://postgresql.us/events/pgopen2017/schedule/session/343-scalable-in-database-machine-learning-with-plpython/). As a fan and long time Postgres users, I have greatly benefited by leveraging PL/Python User Defined Functions (UDFs) and User Defined Aggregates (UDAs). These tools greatly enhance the power of a SQL database like Postgres by bringing all the nimbleness of Python and it's rich ecosystem of libraries.
