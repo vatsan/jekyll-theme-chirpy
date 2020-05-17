@@ -2,6 +2,7 @@
 title: Scalable in-database machine learning with PL/Python (Postgres Open Silicon Valley 2017)
 author: Srivatsan Ramanujam
 date: 2017-09-08
+categories: [Talks]
 tags: [Apache MADlib, PL/Python, in-database ML, Greenplum MPP]
 ---
 
