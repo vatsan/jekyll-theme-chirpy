@@ -2,7 +2,7 @@
 title: Einstein for Sales - Under the Hood (Dreamforce 2019 Breakout Session)
 author: Srivatsan Ramanujam
 date: 2019-11-19
-categories: [Talks, Dreamforce]
+categories: [Talks, Conference]
 tags: [dreamforce, salescloudeinstein, machinelearning]
 ---
 
