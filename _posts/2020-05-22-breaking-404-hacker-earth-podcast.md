@@ -31,5 +31,5 @@ between a data scientist and an ML engineer.
 You can listen to the podcast on [Spotify](https://open.spotify.com/episode/4z7i2aubf519slZ0VqIqju) or [iTunes](https://podcasts.apple.com/in/podcast/all-about-machine-learning-srivatsan-ramanujam-director/id1506174736?i=1000475480031)
 and read a transcript of the interview on the HackerEarth blog linked below.
 
-[![All about ML: Breaking 404 podcast by HackerEarth](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/einstein_for_sales_under_the_hood_df_2019.png)](https://www.hackerearth.com/blog/talent-assessment/podcasts/all-about-machine-learning/)
+[![All about ML: Breaking 404 podcast by HackerEarth](https://raw.githubusercontent.com/vatsan/vatsan.github.io/master/assets/img/sample/vatsan_hacker_earth_breaking_404.jpg)](https://www.hackerearth.com/blog/talent-assessment/podcasts/all-about-machine-learning/)
    
