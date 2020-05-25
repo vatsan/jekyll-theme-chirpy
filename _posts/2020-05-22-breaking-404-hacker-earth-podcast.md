@@ -1,5 +1,5 @@
 ---
-title:  All about machine learning - my "Breaking 404" Podcast with HackerEarth
+title:  All about machine learning - my "Breaking 404" podcast with HackerEarth
 author: Srivatsan Ramanujam
 date: 2020-05-22
 categories: [Talks, Podcast]
@@ -22,11 +22,10 @@ for their podcast last month, I thought it might be an opportunity for me to sha
 their developer community. 
 
 In addition to reflecting on my early days as a software engineer in India and how I transitioned into data science and machine learning, 
-I also talked about my current second innings at Salesforce after I returned as a boomerang over five years after I left it as a 
-software engineer. I also had a chance to touch upon the work we do in building [Salesforce Einstein](https://www.salesforce.com/products/einstein/overview/), 
+I also talked about my current *second innings* at Salesforce after I returned as a boomerang, over five years since I left it as a software engineer. I also had a chance to touch upon the work we do in building [Salesforce Einstein](https://www.salesforce.com/products/einstein/overview/), 
 on how we uphold trust while maintaining a healthy balance between doing interesting work on B2B machine learning while 
-consistently delivering a high quality product for our customers. We also discussed a question that's confused a lot of young job seekers recently - what is the difference
-between a data scientist and an ML engineer.
+consistently delivering a high quality product for our customers. We also discussed a question that's confused a lot of young job seekers recently - *what is the difference
+between a data scientist and an ML engineer?*.
 
 You can listen to the podcast on [Spotify](https://open.spotify.com/episode/4z7i2aubf519slZ0VqIqju) or [iTunes](https://podcasts.apple.com/in/podcast/all-about-machine-learning-srivatsan-ramanujam-director/id1506174736?i=1000475480031)
 and read a transcript of the interview on the HackerEarth blog linked below.
