@@ -1,5 +1,5 @@
 ---
-title:  All about machine learning - my "Breaking 404" podcast with HackerEarth
+title:  All about machine learning - a "Breaking 404" podcast with HackerEarth
 author: Srivatsan Ramanujam
 date: 2020-05-22
 categories: [Talks, Podcast]
