@@ -25,6 +25,30 @@
       </div>
       <div id="site-subtitle" class="font-italic">{{- site.tagline -}}</div>
     </div>
+    <div class="sidebar-bottom d-flex flex-wrap justify-content-around mt-4">
+
+      {% if site.theme_mode == "dual" %}
+      <span id="mode-toggle-wrapper">
+        {% include mode-toggle.html %}
+      </span>
+      <span class="icon-border"></span>
+      {% endif %}
+    
+      <a href="{{ site.linkedin.publicprofile }}" target="_blank">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+      <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a href="https://github.com/{{ site.github.username }}" target="_blank">
+        <i class="fab fa-github-alt"></i>
+      </a>
+      {% assign email = site.social.email | split: '@' %}
+      <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
+        <i class="fas fa-envelope"></i>
+      </a>
+    
+    </div>
   </div>
 
   <ul class="nav flex-column">
@@ -50,32 +74,6 @@
       </a>
     </li> <!-- .nav-item -->
   {% endfor %}
-
   </ul> <!-- ul.nav.flex-column -->
 
 </div><!-- #nav-wrapper -->
-
-<div class="sidebar-bottom d-flex flex-wrap justify-content-around mt-4">
-
-  {% if site.theme_mode == "dual" %}
-  <span id="mode-toggle-wrapper">
-    {% include mode-toggle.html %}
-  </span>
-  <span class="icon-border"></span>
-  {% endif %}
-
-  <a href="{{ site.linkedin.publicprofile }}" target="_blank">
-    <i class="fab fa-linkedin-in"></i>
-  </a>
-  <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
-    <i class="fab fa-twitter"></i>
-  </a>
-  <a href="https://github.com/{{ site.github.username }}" target="_blank">
-    <i class="fab fa-github-alt"></i>
-  </a>
-  {% assign email = site.social.email | split: '@' %}
-  <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
-    <i class="fas fa-envelope"></i>
-  </a>
-
-</div>
